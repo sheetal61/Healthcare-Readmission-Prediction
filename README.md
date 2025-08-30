@@ -25,9 +25,9 @@ Hospitals need a reliable way to **identify patients at high risk of readmission
 ## Results
 - Best Model: **Random Forest Classifier**  
 - Performance:  
-  - ✅ **91% Accuracy**  
-  - ✅ **0.90 ROC-AUC**  
-  - ✅ **86% Recall** (captured most high-risk patients)  
+  - **91% Accuracy**  
+  - **0.90 ROC-AUC**  
+  - **86% Recall** (captured most high-risk patients)  
 
 
 
